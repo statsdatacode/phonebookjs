@@ -1,3 +1,3 @@
-/*globals require, exports */
+"use strict";
 
-exports = require('./lib/phone_number');
+module.exports = require('./lib/phonebook.js')
